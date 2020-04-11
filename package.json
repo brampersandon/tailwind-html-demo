@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "npx tailwindcss build index.css -o build.css",
+        "start": "npx serve ."
+    }
+}
